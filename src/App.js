@@ -80,7 +80,8 @@ function App() {
     return (
 
         <div className="App">
-            <h1>Historico Tipo Cambio</h1>
+            <div className="title"><h1>Histórico Tipo Cambio</h1></div>
+
             <div className="form">
                 <label>Tipo de cambio:</label>
             <select onChange={handleSelect}>
