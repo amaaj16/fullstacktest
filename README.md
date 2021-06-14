@@ -17,9 +17,25 @@ Ingresa a la carpeta root del projecto desde la terminal y ejecuta el siguiente 
 
 Desplige del app de mandera local:
 
+## Key fixer.io
+
+Para poder utilizar este proyecto deberas registrarte en http://fixer.io
+
+##Ingresar Key
+Ingresa a la carpeta root de proyecto y abre el archivo **`.env`**
+
+Copia y pega tu key
+
+![img.png](img.png)
+
+##Despliegue
+
 ### `npm Start`
 
 Una vez iniciada la aplicación podras acceder a ella desde tu navegador en la dirección
 [http://localhost:3000](http://localhost:3000)
 
+
+### APP
+![img_1.png](img_1.png)
 
